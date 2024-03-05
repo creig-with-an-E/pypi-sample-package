@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/example_package_creig_with_an_e/__init__.py
+src/example_package_creig_with_an_e/example.py
+src/example_package_creig_with_an_e.egg-info/PKG-INFO
+src/example_package_creig_with_an_e.egg-info/SOURCES.txt
+src/example_package_creig_with_an_e.egg-info/dependency_links.txt
+src/example_package_creig_with_an_e.egg-info/top_level.txt

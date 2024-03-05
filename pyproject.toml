@@ -1,0 +1,18 @@
+[project]
+name = "example_package_creig_with_an_e"
+version = "0.0.3"
+authors = [
+    { name="Creig-with-an-e", email="creig.phiri@gmail.com" }
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/creig-with-an-e/pypi-sample-package"
+Issues = "https://github.com/creig-with-an-e/pypi-sample-package"

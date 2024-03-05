@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: example_package_creig_with_an_e
+Version: 0.0.3
+Summary: A small example package
+Author-email: Creig-with-an-e <creig.phiri@gmail.com>
+Project-URL: Homepage, https://github.com/creig-with-an-e/pypi-sample-package
+Project-URL: Issues, https://github.com/creig-with-an-e/pypi-sample-package
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Purpose of project
+
+Taking a go at pypi packaging
